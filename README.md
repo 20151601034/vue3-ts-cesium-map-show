@@ -14,6 +14,9 @@ http://map.217dan.com/addons/cesiummapv
 
 后台地址:
 http://map.217dan.com/aeSAZtOfuN.php
+用户名:test
+密码:12345678
+
 
 前端使用的技术栈为：
 vue3.0 CLI4.x脚手架搭建，使用typescript作为逻辑代码，UI界面为elementPlus
